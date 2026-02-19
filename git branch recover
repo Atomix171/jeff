@@ -1,0 +1,86 @@
+[33m583f0cb[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{0}: undo: checkout: moving from 583f0cb5d826da5bce872b34ab17c339f942e369 to main
+[33m583f0cb[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{1}: checkout: moving from 583f0cb5d826da5bce872b34ab17c339f942e369 to main
+[33m583f0cb[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: checkout: moving from main to 583f0cb5d826da5bce872b34ab17c339f942e369
+[33m583f0cb[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{3}: reset: moving to HEAD
+[33m583f0cb[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{4}: undo: reset: moving to HEAD
+[33m583f0cb[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{5}: undo: checkout: moving from main to 583f0cb5d826da5bce872b34ab17c339f942e369
+[33m583f0cb[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{6}: undo: checkout: moving from 583f0cb5d826da5bce872b34ab17c339f942e369 to main
+[33m583f0cb[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{7}: checkout: moving from 583f0cb5d826da5bce872b34ab17c339f942e369 to main
+[33m583f0cb[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{8}: checkout: moving from main to 583f0cb5d826da5bce872b34ab17c339f942e369
+[33m583f0cb[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{9}: reset: moving to HEAD
+[33m583f0cb[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{10}: undo: commit: F-16 Fixed Normals
+[33mc17a971[m HEAD@{11}: commit: F-16 Fixed Normals
+[33m583f0cb[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{12}: revert: Revert "Fixing Files"
+[33m9ed24d4[m HEAD@{13}: reset: moving to HEAD
+[33m9ed24d4[m HEAD@{14}: reset: moving to 9ed24d4c75f60abb8f9f69d452d650a3a8664bab [5b6faee13ac168726ec1705b305d973772be4e82]
+[33m9072f5a[m HEAD@{15}: reset: moving to HEAD
+[33m9072f5a[m HEAD@{16}: revert: Revert "Fixing Files"
+[33m9ed24d4[m HEAD@{17}: reset: moving to HEAD
+[33m9ed24d4[m HEAD@{18}: reset: moving to HEAD
+[33m9ed24d4[m HEAD@{19}: commit: Fixing Files
+[33macd8d5e[m HEAD@{20}: commit: f-16 fbx and substance painter
+[33m4384ea7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{21}: merge origin/main: Fast-forward
+[33m567694f[m HEAD@{22}: commit: f-16
+[33m8030c5f[m HEAD@{23}: reset: moving to HEAD
+[33m8030c5f[m HEAD@{24}: commit: F-16 Rig, Animation FBX Files
+[33m9949d66[m HEAD@{25}: merge origin/main: Fast-forward
+[33mb6227d1[m HEAD@{26}: reset: moving to HEAD
+[33mb6227d1[m HEAD@{27}: merge origin/main: Fast-forward
+[33m0b1a78e[m HEAD@{28}: reset: moving to HEAD
+[33m0b1a78e[m HEAD@{29}: commit: f-16 bones and animation
+[33mec44215[m HEAD@{30}: commit: F-16 Fixed normal and added SP save
+[33m80dbca7[m HEAD@{31}: commit: AGM 88
+[33m6445a99[m HEAD@{32}: merge origin/main: Fast-forward
+[33mc5a32c9[m HEAD@{33}: reset: moving to HEAD
+[33mc5a32c9[m HEAD@{34}: commit: Substance painter missiles
+[33m95fb096[m HEAD@{35}: commit: f-16 and missles
+[33m8778c71[m HEAD@{36}: commit: Missiles, F-16 (Bones)
+[33mdf88b04[m HEAD@{37}: commit: AGM-65
+[33m5533352[m HEAD@{38}: commit: AIM-9
+[33mf82a66e[m HEAD@{39}: commit: f-16,AIM-120,AIM-9
+[33mfe52abe[m HEAD@{40}: merge origin/main: Fast-forward
+[33m98e7c8c[m HEAD@{41}: reset: moving to HEAD
+[33m98e7c8c[m HEAD@{42}: commit: F-16
+[33m08fa512[m HEAD@{43}: commit: f-16
+[33mc98244d[m HEAD@{44}: commit: f-16
+[33m047c4a9[m HEAD@{45}: merge origin/main: Fast-forward
+[33mcdb44e7[m HEAD@{46}: reset: moving to HEAD
+[33mcdb44e7[m HEAD@{47}: commit: F-16 cockpit
+[33m64fb768[m HEAD@{48}: commit: F-16
+[33m874cc4d[m HEAD@{49}: commit: f-16
+[33m606796f[m HEAD@{50}: reset: moving to HEAD
+[33m606796f[m HEAD@{51}: commit: F-16
+[33me4e4382[m HEAD@{52}: commit: F-16 Substance Painter
+[33m80f3f9c[m HEAD@{53}: commit: F-16 Model Inside
+[33m312f87e[m HEAD@{54}: merge origin/main: Fast-forward
+[33mcd8ebd1[m HEAD@{55}: reset: moving to HEAD
+[33mcd8ebd1[m HEAD@{56}: merge origin/main: Fast-forward
+[33m098e2b5[m HEAD@{57}: reset: moving to HEAD
+[33m098e2b5[m HEAD@{58}: commit: F-16 Wheels and Cleaning Files
+[33m5e4a01c[m HEAD@{59}: merge origin/main: Fast-forward
+[33m9b2068a[m HEAD@{60}: reset: moving to HEAD
+[33m9b2068a[m HEAD@{61}: commit: F-16 and Illustrator Tan Camo
+[33mbe055e8[m HEAD@{62}: merge origin/main: Fast-forward
+[33m211c82a[m HEAD@{63}: reset: moving to HEAD
+[33m211c82a[m HEAD@{64}: commit: F-16 Wheels
+[33m86c5ba7[m HEAD@{65}: merge origin/main: Fast-forward
+[33mad6238f[m HEAD@{66}: reset: moving to HEAD
+[33mad6238f[m HEAD@{67}: commit: Substance Painter Saves f-16
+[33mb07c28c[m HEAD@{68}: commit: F-16 Model
+[33m8042cb3[m HEAD@{69}: merge origin/main: Fast-forward
+[33ma82f4a9[m HEAD@{70}: reset: moving to HEAD
+[33ma82f4a9[m HEAD@{71}: merge origin/main: Fast-forward
+[33mde06ba2[m HEAD@{72}: reset: moving to HEAD
+[33mde06ba2[m HEAD@{73}: merge origin/main: Merge made by the 'ort' strategy.
+[33mf068754[m HEAD@{74}: reset: moving to HEAD
+[33mf068754[m HEAD@{75}: commit: f-16 sp save
+[33m1df12c6[m HEAD@{76}: merge origin/main: Fast-forward
+[33m94f5701[m HEAD@{77}: commit: Retopology and UV Unwrapping F-16
+[33m8654a2c[m HEAD@{78}: merge origin/main: Fast-forward
+[33mc85b636[m HEAD@{79}: commit: Fix Files
+[33m1623fa6[m HEAD@{80}: commit: Organized Files
+[33m042c09d[m HEAD@{81}: commit: Added F-35 & B-2 Substance Painter Saves
+[33m74d3cdf[m HEAD@{82}: commit: Added F-35 Model
+[33ma2f13fe[m HEAD@{83}: commit: Added F-16 Model
+[33m376002e[m HEAD@{84}: commit: Added B-2 models
+[33m955b3ed[m HEAD@{85}: clone: from https://github.com/Atomix171/jeff.git
